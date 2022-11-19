@@ -1,5 +1,5 @@
 
-### The Dev Who Would Be Dev and other fantastic tropes of wonderous titles
+### The Dev Who Would Be Dev & Other Fantastic Tropes Of Wonderous Titles
 <img src="" alt="l§dev profile banner">
 
 Salut 👋
