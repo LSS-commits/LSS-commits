@@ -1,7 +1,7 @@
 
-### The Dev Who Would Be Dev & Other Fantastic Tropes Of Wonderous Titles
+## The Dev Who Would Be Dev & Other Fantastic Tropes Of Wonderous Titles
 <img src="https://github.com/LSS-commits/LSS-commits/blob/main/roujinz_ldev.png" alt="l§dev profile banner">
-![alt text](https://github.com/LSS-commits/LSS-commits/blob/main/roujinz_ldev.png)
+
 
 Salut 👋
 <br>
@@ -11,3 +11,5 @@ What you'll find here is mostly PHP, JavaScript and Typescript, for now.
 
 
 <strong>Peace be upon you</strong>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSS-commits&hide=stars,commits,prs,issues,contribs&layout=compact&theme=radical)](https://github.com/LSS-commits)
