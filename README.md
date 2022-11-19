@@ -1,6 +1,6 @@
 
 ### The Dev Who Would Be Dev & Other Fantastic Tropes Of Wonderous Titles
-<img src="" alt="l§dev profile banner">
+<img src="https://github.com/LSS-commits/LSS-commits/blob/main/roujinz_ldev.png" alt="l§dev profile banner">
 
 Salut 👋
 <br>
